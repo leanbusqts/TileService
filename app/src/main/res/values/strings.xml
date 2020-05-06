@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TileServ</string>
+    <string name="tile_on">TILE ON</string>
+    <string name="tile_service">TILE SERVICE!</string>
+</resources>
